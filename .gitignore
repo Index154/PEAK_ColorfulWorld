@@ -1,5 +1,8 @@
 bin/
+lib/
 obj/
 productive/
 .vscode/
 .editorconfig
+LogOutput.log - Verknüpfung.lnk
+plugins - Verknüpfung.lnk
