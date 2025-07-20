@@ -1,4 +1,4 @@
 # SpawnConfig
-A mod for PEAK that randomly modifies the biomes in the game. See here for more details: WIP
+A mod for PEAK that randomly changes the biome colors in the game. See here for more details: WIP
 
 > PEAK_ColorfulWorld © 2025 by Index154 aka ArtificialIndex is licensed under CC BY-NC 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/. This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, for noncommercial purposes only.
